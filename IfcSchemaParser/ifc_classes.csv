@@ -1,0 +1,275 @@
+IfcActuator, IfcDistributionControlElement, Entity > IfcRoot > IfcObjectDefinition > IfcObject > IfcProduct > IfcElement > IfcDistributionElement > IfcDistributionControlElement >
+IfcActuatorType, IfcDistributionControlElementType, Entity > IfcRoot > IfcObjectDefinition > IfcTypeObject > IfcTypeProduct > IfcElementType > IfcDistributionElementType > IfcDistributionControlElementType >
+IfcAirTerminal, IfcFlowTerminal, Entity > IfcRoot > IfcObjectDefinition > IfcObject > IfcProduct > IfcElement > IfcDistributionElement > IfcDistributionFlowElement > IfcFlowTerminal >
+IfcAirTerminalBox, IfcFlowController, Entity > IfcRoot > IfcObjectDefinition > IfcObject > IfcProduct > IfcElement > IfcDistributionElement > IfcDistributionFlowElement > IfcFlowController >
+IfcAirTerminalBoxType, IfcFlowControllerType, Entity > IfcRoot > IfcObjectDefinition > IfcTypeObject > IfcTypeProduct > IfcElementType > IfcDistributionElementType > IfcDistributionFlowElementType > IfcFlowControllerType >
+IfcAirTerminalType, IfcFlowTerminalType, Entity > IfcRoot > IfcObjectDefinition > IfcTypeObject > IfcTypeProduct > IfcElementType > IfcDistributionElementType > IfcDistributionFlowElementType > IfcFlowTerminalType >
+IfcAirToAirHeatRecovery, IfcEnergyConversionDevice, Entity > IfcRoot > IfcObjectDefinition > IfcObject > IfcProduct > IfcElement > IfcDistributionElement > IfcDistributionFlowElement > IfcEnergyConversionDevice >
+IfcAirToAirHeatRecoveryType, IfcEnergyConversionDeviceType, Entity > IfcRoot > IfcObjectDefinition > IfcTypeObject > IfcTypeProduct > IfcElementType > IfcDistributionElementType > IfcDistributionFlowElementType > IfcEnergyConversionDeviceType >
+IfcAlarm, IfcDistributionControlElement, Entity > IfcRoot > IfcObjectDefinition > IfcObject > IfcProduct > IfcElement > IfcDistributionElement > IfcDistributionControlElement >
+IfcAlarmType, IfcDistributionControlElementType, Entity > IfcRoot > IfcObjectDefinition > IfcTypeObject > IfcTypeProduct > IfcElementType > IfcDistributionElementType > IfcDistributionControlElementType >
+IfcAudioVisualAppliance, IfcFlowTerminal, Entity > IfcRoot > IfcObjectDefinition > IfcObject > IfcProduct > IfcElement > IfcDistributionElement > IfcDistributionFlowElement > IfcFlowTerminal >
+IfcAudioVisualApplianceType, IfcFlowTerminalType, Entity > IfcRoot > IfcObjectDefinition > IfcTypeObject > IfcTypeProduct > IfcElementType > IfcDistributionElementType > IfcDistributionFlowElementType > IfcFlowTerminalType >
+IfcBeam, IfcBuildingElement, Entity > IfcRoot > IfcObjectDefinition > IfcObject > IfcProduct > IfcElement > IfcBuildingElement >
+IfcBeamStandardCase, IfcBeam, Entity > IfcRoot > IfcObjectDefinition > IfcObject > IfcProduct > IfcElement > IfcBuildingElement > IfcBeam >
+IfcBeamType, IfcBuildingElementType, Entity > IfcRoot > IfcObjectDefinition > IfcTypeObject > IfcTypeProduct > IfcElementType > IfcBuildingElementType >
+IfcBearing, IfcBuildingElement, Entity > IfcRoot > IfcObjectDefinition > IfcObject > IfcProduct > IfcElement > IfcBuildingElement >
+IfcBearingType, IfcBuildingElementType, Entity > IfcRoot > IfcObjectDefinition > IfcTypeObject > IfcTypeProduct > IfcElementType > IfcBuildingElementType >        
+IfcBoiler, IfcEnergyConversionDevice, Entity > IfcRoot > IfcObjectDefinition > IfcObject > IfcProduct > IfcElement > IfcDistributionElement > IfcDistributionFlowElement > IfcEnergyConversionDevice >
+IfcBoilerType, IfcEnergyConversionDeviceType, Entity > IfcRoot > IfcObjectDefinition > IfcTypeObject > IfcTypeProduct > IfcElementType > IfcDistributionElementType > IfcDistributionFlowElementType > IfcEnergyConversionDeviceType >
+IfcBuildingElement, IfcElement, Entity > IfcRoot > IfcObjectDefinition > IfcObject > IfcProduct > IfcElement >
+IfcBuildingElementPart, IfcElementComponent, Entity > IfcRoot > IfcObjectDefinition > IfcObject > IfcProduct > IfcElement > IfcElementComponent >
+IfcBuildingElementPartType, IfcElementComponentType, Entity > IfcRoot > IfcObjectDefinition > IfcTypeObject > IfcTypeProduct > IfcElementType > IfcElementComponentType >
+IfcBuildingElementProxy, IfcBuildingElement, Entity > IfcRoot > IfcObjectDefinition > IfcObject > IfcProduct > IfcElement > IfcBuildingElement >
+IfcBuildingElementProxyType, IfcBuildingElementType, Entity > IfcRoot > IfcObjectDefinition > IfcTypeObject > IfcTypeProduct > IfcElementType > IfcBuildingElementType >
+IfcBuildingElementType, IfcElementType, Entity > IfcRoot > IfcObjectDefinition > IfcTypeObject > IfcTypeProduct > IfcElementType >
+IfcBurner, IfcEnergyConversionDevice, Entity > IfcRoot > IfcObjectDefinition > IfcObject > IfcProduct > IfcElement > IfcDistributionElement > IfcDistributionFlowElement > IfcEnergyConversionDevice >
+IfcBurnerType, IfcEnergyConversionDeviceType, Entity > IfcRoot > IfcObjectDefinition > IfcTypeObject > IfcTypeProduct > IfcElementType > IfcDistributionElementType > IfcDistributionFlowElementType > IfcEnergyConversionDeviceType >
+IfcCableCarrierFitting, IfcFlowFitting, Entity > IfcRoot > IfcObjectDefinition > IfcObject > IfcProduct > IfcElement > IfcDistributionElement > IfcDistributionFlowElement > IfcFlowFitting >
+IfcCableCarrierFittingType, IfcFlowFittingType, Entity > IfcRoot > IfcObjectDefinition > IfcTypeObject > IfcTypeProduct > IfcElementType > IfcDistributionElementType > IfcDistributionFlowElementType > IfcFlowFittingType >
+IfcCableCarrierSegment, IfcFlowSegment, Entity > IfcRoot > IfcObjectDefinition > IfcObject > IfcProduct > IfcElement > IfcDistributionElement > IfcDistributionFlowElement > IfcFlowSegment >
+IfcCableCarrierSegmentType, IfcFlowSegmentType, Entity > IfcRoot > IfcObjectDefinition > IfcTypeObject > IfcTypeProduct > IfcElementType > IfcDistributionElementType > IfcDistributionFlowElementType > IfcFlowSegmentType >
+IfcCableFitting, IfcFlowFitting, Entity > IfcRoot > IfcObjectDefinition > IfcObject > IfcProduct > IfcElement > IfcDistributionElement > IfcDistributionFlowElement > IfcFlowFitting >
+IfcCableFittingType, IfcFlowFittingType, Entity > IfcRoot > IfcObjectDefinition > IfcTypeObject > IfcTypeProduct > IfcElementType > IfcDistributionElementType > IfcDistributionFlowElementType > IfcFlowFittingType >
+IfcCableSegment, IfcFlowSegment, Entity > IfcRoot > IfcObjectDefinition > IfcObject > IfcProduct > IfcElement > IfcDistributionElement > IfcDistributionFlowElement > IfcFlowSegment >
+IfcCableSegmentType, IfcFlowSegmentType, Entity > IfcRoot > IfcObjectDefinition > IfcTypeObject > IfcTypeProduct > IfcElementType > IfcDistributionElementType > IfcDistributionFlowElementType > IfcFlowSegmentType >
+IfcCaissonFoundation, IfcDeepFoundation, Entity > IfcRoot > IfcObjectDefinition > IfcObject > IfcProduct > IfcElement > IfcBuildingElement > IfcDeepFoundation >   
+IfcCaissonFoundationType, IfcDeepFoundationType, Entity > IfcRoot > IfcObjectDefinition > IfcTypeObject > IfcTypeProduct > IfcElementType > IfcBuildingElementType > IfcDeepFoundationType >
+IfcChiller, IfcEnergyConversionDevice, Entity > IfcRoot > IfcObjectDefinition > IfcObject > IfcProduct > IfcElement > IfcDistributionElement > IfcDistributionFlowElement > IfcEnergyConversionDevice >
+IfcChillerType, IfcEnergyConversionDeviceType, Entity > IfcRoot > IfcObjectDefinition > IfcTypeObject > IfcTypeProduct > IfcElementType > IfcDistributionElementType > IfcDistributionFlowElementType > IfcEnergyConversionDeviceType >
+IfcChimney, IfcBuildingElement, Entity > IfcRoot > IfcObjectDefinition > IfcObject > IfcProduct > IfcElement > IfcBuildingElement >
+IfcChimneyType, IfcBuildingElementType, Entity > IfcRoot > IfcObjectDefinition > IfcTypeObject > IfcTypeProduct > IfcElementType > IfcBuildingElementType >        
+IfcCivilElement, IfcElement, Entity > IfcRoot > IfcObjectDefinition > IfcObject > IfcProduct > IfcElement >
+IfcCivilElementType, IfcElementType, Entity > IfcRoot > IfcObjectDefinition > IfcTypeObject > IfcTypeProduct > IfcElementType >
+IfcCoil, IfcEnergyConversionDevice, Entity > IfcRoot > IfcObjectDefinition > IfcObject > IfcProduct > IfcElement > IfcDistributionElement > IfcDistributionFlowElement > IfcEnergyConversionDevice >
+IfcCoilType, IfcEnergyConversionDeviceType, Entity > IfcRoot > IfcObjectDefinition > IfcTypeObject > IfcTypeProduct > IfcElementType > IfcDistributionElementType > IfcDistributionFlowElementType > IfcEnergyConversionDeviceType >
+IfcColumn, IfcBuildingElement, Entity > IfcRoot > IfcObjectDefinition > IfcObject > IfcProduct > IfcElement > IfcBuildingElement >
+IfcColumnStandardCase, IfcColumn, Entity > IfcRoot > IfcObjectDefinition > IfcObject > IfcProduct > IfcElement > IfcBuildingElement > IfcColumn >
+IfcColumnType, IfcBuildingElementType, Entity > IfcRoot > IfcObjectDefinition > IfcTypeObject > IfcTypeProduct > IfcElementType > IfcBuildingElementType > 
+IfcCommunicationsAppliance, IfcFlowTerminal, Entity > IfcRoot > IfcObjectDefinition > IfcObject > IfcProduct > IfcElement > IfcDistributionElement > IfcDistributionFlowElement > IfcFlowTerminal >
+IfcCommunicationsApplianceType, IfcFlowTerminalType, Entity > IfcRoot > IfcObjectDefinition > IfcTypeObject > IfcTypeProduct > IfcElementType > IfcDistributionElementType > IfcDistributionFlowElementType > IfcFlowTerminalType >
+IfcCompressor, IfcFlowMovingDevice, Entity > IfcRoot > IfcObjectDefinition > IfcObject > IfcProduct > IfcElement > IfcDistributionElement > IfcDistributionFlowElement > IfcFlowMovingDevice >
+IfcCompressorType, IfcFlowMovingDeviceType, Entity > IfcRoot > IfcObjectDefinition > IfcTypeObject > IfcTypeProduct > IfcElementType > IfcDistributionElementType > IfcDistributionFlowElementType > IfcFlowMovingDeviceType >
+IfcCondenser, IfcEnergyConversionDevice, Entity > IfcRoot > IfcObjectDefinition > IfcObject > IfcProduct > IfcElement > IfcDistributionElement > IfcDistributionFlowElement > IfcEnergyConversionDevice >
+IfcCondenserType, IfcEnergyConversionDeviceType, Entity > IfcRoot > IfcObjectDefinition > IfcTypeObject > IfcTypeProduct > IfcElementType > IfcDistributionElementType > IfcDistributionFlowElementType > IfcEnergyConversionDeviceType >
+IfcController, IfcDistributionControlElement, Entity > IfcRoot > IfcObjectDefinition > IfcObject > IfcProduct > IfcElement > IfcDistributionElement > IfcDistributionControlElement >
+IfcControllerType, IfcDistributionControlElementType, Entity > IfcRoot > IfcObjectDefinition > IfcTypeObject > IfcTypeProduct > IfcElementType > IfcDistributionElementType > IfcDistributionControlElementType >
+IfcCooledBeam, IfcEnergyConversionDevice, Entity > IfcRoot > IfcObjectDefinition > IfcObject > IfcProduct > IfcElement > IfcDistributionElement > IfcDistributionFlowElement > IfcEnergyConversionDevice >
+IfcCooledBeamType, IfcEnergyConversionDeviceType, Entity > IfcRoot > IfcObjectDefinition > IfcTypeObject > IfcTypeProduct > IfcElementType > IfcDistributionElementType > IfcDistributionFlowElementType > IfcEnergyConversionDeviceType >
+IfcCoolingTower, IfcEnergyConversionDevice, Entity > IfcRoot > IfcObjectDefinition > IfcObject > IfcProduct > IfcElement > IfcDistributionElement > IfcDistributionFlowElement > IfcEnergyConversionDevice >
+IfcCoolingTowerType, IfcEnergyConversionDeviceType, Entity > IfcRoot > IfcObjectDefinition > IfcTypeObject > IfcTypeProduct > IfcElementType > IfcDistributionElementType > IfcDistributionFlowElementType > IfcEnergyConversionDeviceType >
+IfcCovering, IfcBuildingElement, Entity > IfcRoot > IfcObjectDefinition > IfcObject > IfcProduct > IfcElement > IfcBuildingElement >
+IfcCoveringType, IfcBuildingElementType, Entity > IfcRoot > IfcObjectDefinition > IfcTypeObject > IfcTypeProduct > IfcElementType > IfcBuildingElementType >       
+IfcCurtainWall, IfcBuildingElement, Entity > IfcRoot > IfcObjectDefinition > IfcObject > IfcProduct > IfcElement > IfcBuildingElement >
+IfcCurtainWallType, IfcBuildingElementType, Entity > IfcRoot > IfcObjectDefinition > IfcTypeObject > IfcTypeProduct > IfcElementType > IfcBuildingElementType >    
+IfcCylindricalSurface, IfcElementarySurface, Entity > IfcRepresentationItem > IfcGeometricRepresentationItem > IfcSurface > IfcElementarySurface >
+IfcDamper, IfcFlowController, Entity > IfcRoot > IfcObjectDefinition > IfcObject > IfcProduct > IfcElement > IfcDistributionElement > IfcDistributionFlowElement > 
+IfcFlowController >
+IfcDamperType, IfcFlowControllerType, Entity > IfcRoot > IfcObjectDefinition > IfcTypeObject > IfcTypeProduct > IfcElementType > IfcDistributionElementType > IfcDistributionFlowElementType > IfcFlowControllerType >
+IfcDeepFoundation, IfcBuildingElement, Entity > IfcRoot > IfcObjectDefinition > IfcObject > IfcProduct > IfcElement > IfcBuildingElement >
+IfcDeepFoundationType, IfcBuildingElementType, Entity > IfcRoot > IfcObjectDefinition > IfcTypeObject > IfcTypeProduct > IfcElementType > IfcBuildingElementType > 
+IfcDiscreteAccessory, IfcElementComponent, Entity > IfcRoot > IfcObjectDefinition > IfcObject > IfcProduct > IfcElement > IfcElementComponent >
+IfcDiscreteAccessoryType, IfcElementComponentType, Entity > IfcRoot > IfcObjectDefinition > IfcTypeObject > IfcTypeProduct > IfcElementType > IfcElementComponentType >
+IfcDistributionChamberElement, IfcDistributionFlowElement, Entity > IfcRoot > IfcObjectDefinition > IfcObject > IfcProduct > IfcElement > IfcDistributionElement > 
+IfcDistributionFlowElement >
+IfcDistributionChamberElementType, IfcDistributionFlowElementType, Entity > IfcRoot > IfcObjectDefinition > IfcTypeObject > IfcTypeProduct > IfcElementType > IfcDistributionElementType > IfcDistributionFlowElementType >
+IfcDistributionControlElement, IfcDistributionElement, Entity > IfcRoot > IfcObjectDefinition > IfcObject > IfcProduct > IfcElement > IfcDistributionElement >     
+IfcDistributionControlElementType, IfcDistributionElementType, Entity > IfcRoot > IfcObjectDefinition > IfcTypeObject > IfcTypeProduct > IfcElementType > IfcDistributionElementType >
+IfcDistributionElement, IfcElement, Entity > IfcRoot > IfcObjectDefinition > IfcObject > IfcProduct > IfcElement >
+IfcDistributionElementType, IfcElementType, Entity > IfcRoot > IfcObjectDefinition > IfcTypeObject > IfcTypeProduct > IfcElementType >
+IfcDistributionFlowElement, IfcDistributionElement, Entity > IfcRoot > IfcObjectDefinition > IfcObject > IfcProduct > IfcElement > IfcDistributionElement >        
+IfcDistributionFlowElementType, IfcDistributionElementType, Entity > IfcRoot > IfcObjectDefinition > IfcTypeObject > IfcTypeProduct > IfcElementType > IfcDistributionElementType >
+IfcDoor, IfcBuildingElement, Entity > IfcRoot > IfcObjectDefinition > IfcObject > IfcProduct > IfcElement > IfcBuildingElement >
+IfcDoorStandardCase, IfcDoor, Entity > IfcRoot > IfcObjectDefinition > IfcObject > IfcProduct > IfcElement > IfcBuildingElement > IfcDoor >
+IfcDoorType, IfcBuildingElementType, Entity > IfcRoot > IfcObjectDefinition > IfcTypeObject > IfcTypeProduct > IfcElementType > IfcBuildingElementType >
+IfcDuctFitting, IfcFlowFitting, Entity > IfcRoot > IfcObjectDefinition > IfcObject > IfcProduct > IfcElement > IfcDistributionElement > IfcDistributionFlowElement > IfcFlowFitting >
+IfcDuctFittingType, IfcFlowFittingType, Entity > IfcRoot > IfcObjectDefinition > IfcTypeObject > IfcTypeProduct > IfcElementType > IfcDistributionElementType > IfcDistributionFlowElementType > IfcFlowFittingType >
+IfcDuctSegment, IfcFlowSegment, Entity > IfcRoot > IfcObjectDefinition > IfcObject > IfcProduct > IfcElement > IfcDistributionElement > IfcDistributionFlowElement > IfcFlowSegment >
+IfcDuctSegmentType, IfcFlowSegmentType, Entity > IfcRoot > IfcObjectDefinition > IfcTypeObject > IfcTypeProduct > IfcElementType > IfcDistributionElementType > IfcDistributionFlowElementType > IfcFlowSegmentType >
+IfcDuctSilencer, IfcFlowTreatmentDevice, Entity > IfcRoot > IfcObjectDefinition > IfcObject > IfcProduct > IfcElement > IfcDistributionElement > IfcDistributionFlowElement > IfcFlowTreatmentDevice >
+IfcDuctSilencerType, IfcFlowTreatmentDeviceType, Entity > IfcRoot > IfcObjectDefinition > IfcTypeObject > IfcTypeProduct > IfcElementType > IfcDistributionElementType > IfcDistributionFlowElementType > IfcFlowTreatmentDeviceType >
+IfcElectricAppliance, IfcFlowTerminal, Entity > IfcRoot > IfcObjectDefinition > IfcObject > IfcProduct > IfcElement > IfcDistributionElement > IfcDistributionFlowElement > IfcFlowTerminal >
+IfcElectricApplianceType, IfcFlowTerminalType, Entity > IfcRoot > IfcObjectDefinition > IfcTypeObject > IfcTypeProduct > IfcElementType > IfcDistributionElementType > IfcDistributionFlowElementType > IfcFlowTerminalType >
+IfcElectricDistributionBoard, IfcFlowController, Entity > IfcRoot > IfcObjectDefinition > IfcObject > IfcProduct > IfcElement > IfcDistributionElement > IfcDistributionFlowElement > IfcFlowController >
+IfcElectricDistributionBoardType, IfcFlowControllerType, Entity > IfcRoot > IfcObjectDefinition > IfcTypeObject > IfcTypeProduct > IfcElementType > IfcDistributionElementType > IfcDistributionFlowElementType > IfcFlowControllerType >
+IfcElectricFlowStorageDevice, IfcFlowStorageDevice, Entity > IfcRoot > IfcObjectDefinition > IfcObject > IfcProduct > IfcElement > IfcDistributionElement > IfcDistributionFlowElement > IfcFlowStorageDevice >
+IfcElectricFlowStorageDeviceType, IfcFlowStorageDeviceType, Entity > IfcRoot > IfcObjectDefinition > IfcTypeObject > IfcTypeProduct > IfcElementType > IfcDistributionElementType > IfcDistributionFlowElementType > IfcFlowStorageDeviceType >
+IfcElectricGenerator, IfcEnergyConversionDevice, Entity > IfcRoot > IfcObjectDefinition > IfcObject > IfcProduct > IfcElement > IfcDistributionElement > IfcDistributionFlowElement > IfcEnergyConversionDevice >
+IfcElectricGeneratorType, IfcEnergyConversionDeviceType, Entity > IfcRoot > IfcObjectDefinition > IfcTypeObject > IfcTypeProduct > IfcElementType > IfcDistributionElementType > IfcDistributionFlowElementType > IfcEnergyConversionDeviceType >
+IfcElectricMotor, IfcEnergyConversionDevice, Entity > IfcRoot > IfcObjectDefinition > IfcObject > IfcProduct > IfcElement > IfcDistributionElement > IfcDistributionFlowElement > IfcEnergyConversionDevice >
+IfcElectricMotorType, IfcEnergyConversionDeviceType, Entity > IfcRoot > IfcObjectDefinition > IfcTypeObject > IfcTypeProduct > IfcElementType > IfcDistributionElementType > IfcDistributionFlowElementType > IfcEnergyConversionDeviceType >
+IfcElectricTimeControl, IfcFlowController, Entity > IfcRoot > IfcObjectDefinition > IfcObject > IfcProduct > IfcElement > IfcDistributionElement > IfcDistributionFlowElement > IfcFlowController >
+IfcElectricTimeControlType, IfcFlowControllerType, Entity > IfcRoot > IfcObjectDefinition > IfcTypeObject > IfcTypeProduct > IfcElementType > IfcDistributionElementType > IfcDistributionFlowElementType > IfcFlowControllerType >
+IfcElementAssembly, IfcElement, Entity > IfcRoot > IfcObjectDefinition > IfcObject > IfcProduct > IfcElement >
+IfcElementAssemblyType, IfcElementType, Entity > IfcRoot > IfcObjectDefinition > IfcTypeObject > IfcTypeProduct > IfcElementType >
+IfcElementComponent, IfcElement, Entity > IfcRoot > IfcObjectDefinition > IfcObject > IfcProduct > IfcElement >
+IfcElementComponentType, IfcElementType, Entity > IfcRoot > IfcObjectDefinition > IfcTypeObject > IfcTypeProduct > IfcElementType >
+IfcEnergyConversionDevice, IfcDistributionFlowElement, Entity > IfcRoot > IfcObjectDefinition > IfcObject > IfcProduct > IfcElement > IfcDistributionElement > IfcDistributionFlowElement >
+IfcEnergyConversionDeviceType, IfcDistributionFlowElementType, Entity > IfcRoot > IfcObjectDefinition > IfcTypeObject > IfcTypeProduct > IfcElementType > IfcDistributionElementType > IfcDistributionFlowElementType >
+IfcEngine, IfcEnergyConversionDevice, Entity > IfcRoot > IfcObjectDefinition > IfcObject > IfcProduct > IfcElement > IfcDistributionElement > IfcDistributionFlowElement > IfcEnergyConversionDevice >
+IfcEngineType, IfcEnergyConversionDeviceType, Entity > IfcRoot > IfcObjectDefinition > IfcTypeObject > IfcTypeProduct > IfcElementType > IfcDistributionElementType > IfcDistributionFlowElementType > IfcEnergyConversionDeviceType >
+IfcEvaporativeCooler, IfcEnergyConversionDevice, Entity > IfcRoot > IfcObjectDefinition > IfcObject > IfcProduct > IfcElement > IfcDistributionElement > IfcDistributionFlowElement > IfcEnergyConversionDevice >
+IfcEvaporativeCoolerType, IfcEnergyConversionDeviceType, Entity > IfcRoot > IfcObjectDefinition > IfcTypeObject > IfcTypeProduct > IfcElementType > IfcDistributionElementType > IfcDistributionFlowElementType > IfcEnergyConversionDeviceType >
+IfcEvaporator, IfcEnergyConversionDevice, Entity > IfcRoot > IfcObjectDefinition > IfcObject > IfcProduct > IfcElement > IfcDistributionElement > IfcDistributionFlowElement > IfcEnergyConversionDevice >
+IfcEvaporatorType, IfcEnergyConversionDeviceType, Entity > IfcRoot > IfcObjectDefinition > IfcTypeObject > IfcTypeProduct > IfcElementType > IfcDistributionElementType > IfcDistributionFlowElementType > IfcEnergyConversionDeviceType >
+IfcFan, IfcFlowMovingDevice, Entity > IfcRoot > IfcObjectDefinition > IfcObject > IfcProduct > IfcElement > IfcDistributionElement > IfcDistributionFlowElement > IfcFlowMovingDevice >
+IfcFanType, IfcFlowMovingDeviceType, Entity > IfcRoot > IfcObjectDefinition > IfcTypeObject > IfcTypeProduct > IfcElementType > IfcDistributionElementType > IfcDistributionFlowElementType > IfcFlowMovingDeviceType >
+IfcFastener, IfcElementComponent, Entity > IfcRoot > IfcObjectDefinition > IfcObject > IfcProduct > IfcElement > IfcElementComponent >
+IfcFastenerType, IfcElementComponentType, Entity > IfcRoot > IfcObjectDefinition > IfcTypeObject > IfcTypeProduct > IfcElementType > IfcElementComponentType >     
+IfcFeatureElement, IfcElement, Entity > IfcRoot > IfcObjectDefinition > IfcObject > IfcProduct > IfcElement >
+IfcFeatureElementAddition, IfcFeatureElement, Entity > IfcRoot > IfcObjectDefinition > IfcObject > IfcProduct > IfcElement > IfcFeatureElement >
+IfcFeatureElementSubtraction, IfcFeatureElement, Entity > IfcRoot > IfcObjectDefinition > IfcObject > IfcProduct > IfcElement > IfcFeatureElement >
+IfcFilter, IfcFlowTreatmentDevice, Entity > IfcRoot > IfcObjectDefinition > IfcObject > IfcProduct > IfcElement > IfcDistributionElement > IfcDistributionFlowElement > IfcFlowTreatmentDevice >
+IfcFilterType, IfcFlowTreatmentDeviceType, Entity > IfcRoot > IfcObjectDefinition > IfcTypeObject > IfcTypeProduct > IfcElementType > IfcDistributionElementType > 
+IfcDistributionFlowElementType > IfcFlowTreatmentDeviceType >
+IfcFireSuppressionTerminal, IfcFlowTerminal, Entity > IfcRoot > IfcObjectDefinition > IfcObject > IfcProduct > IfcElement > IfcDistributionElement > IfcDistributionFlowElement > IfcFlowTerminal >
+IfcFireSuppressionTerminalType, IfcFlowTerminalType, Entity > IfcRoot > IfcObjectDefinition > IfcTypeObject > IfcTypeProduct > IfcElementType > IfcDistributionElementType > IfcDistributionFlowElementType > IfcFlowTerminalType >
+IfcFlowController, IfcDistributionFlowElement, Entity > IfcRoot > IfcObjectDefinition > IfcObject > IfcProduct > IfcElement > IfcDistributionElement > IfcDistributionFlowElement >
+IfcFlowControllerType, IfcDistributionFlowElementType, Entity > IfcRoot > IfcObjectDefinition > IfcTypeObject > IfcTypeProduct > IfcElementType > IfcDistributionElementType > IfcDistributionFlowElementType >
+IfcFlowFitting, IfcDistributionFlowElement, Entity > IfcRoot > IfcObjectDefinition > IfcObject > IfcProduct > IfcElement > IfcDistributionElement > IfcDistributionFlowElement >
+IfcFlowFittingType, IfcDistributionFlowElementType, Entity > IfcRoot > IfcObjectDefinition > IfcTypeObject > IfcTypeProduct > IfcElementType > IfcDistributionElementType > IfcDistributionFlowElementType >
+IfcFlowInstrument, IfcDistributionControlElement, Entity > IfcRoot > IfcObjectDefinition > IfcObject > IfcProduct > IfcElement > IfcDistributionElement > IfcDistributionControlElement >
+IfcFlowInstrumentType, IfcDistributionControlElementType, Entity > IfcRoot > IfcObjectDefinition > IfcTypeObject > IfcTypeProduct > IfcElementType > IfcDistributionElementType > IfcDistributionControlElementType >
+IfcFlowMeter, IfcFlowController, Entity > IfcRoot > IfcObjectDefinition > IfcObject > IfcProduct > IfcElement > IfcDistributionElement > IfcDistributionFlowElement > IfcFlowController >
+IfcFlowMeterType, IfcFlowControllerType, Entity > IfcRoot > IfcObjectDefinition > IfcTypeObject > IfcTypeProduct > IfcElementType > IfcDistributionElementType > IfcDistributionFlowElementType > IfcFlowControllerType >
+IfcFlowMovingDevice, IfcDistributionFlowElement, Entity > IfcRoot > IfcObjectDefinition > IfcObject > IfcProduct > IfcElement > IfcDistributionElement > IfcDistributionFlowElement >
+IfcFlowMovingDeviceType, IfcDistributionFlowElementType, Entity > IfcRoot > IfcObjectDefinition > IfcTypeObject > IfcTypeProduct > IfcElementType > IfcDistributionElementType > IfcDistributionFlowElementType >
+IfcFlowSegment, IfcDistributionFlowElement, Entity > IfcRoot > IfcObjectDefinition > IfcObject > IfcProduct > IfcElement > IfcDistributionElement > IfcDistributionFlowElement >
+IfcFlowSegmentType, IfcDistributionFlowElementType, Entity > IfcRoot > IfcObjectDefinition > IfcTypeObject > IfcTypeProduct > IfcElementType > IfcDistributionElementType > IfcDistributionFlowElementType >
+IfcFlowStorageDevice, IfcDistributionFlowElement, Entity > IfcRoot > IfcObjectDefinition > IfcObject > IfcProduct > IfcElement > IfcDistributionElement > IfcDistributionFlowElement >
+IfcFlowStorageDeviceType, IfcDistributionFlowElementType, Entity > IfcRoot > IfcObjectDefinition > IfcTypeObject > IfcTypeProduct > IfcElementType > IfcDistributionElementType > IfcDistributionFlowElementType >
+IfcFlowTerminal, IfcDistributionFlowElement, Entity > IfcRoot > IfcObjectDefinition > IfcObject > IfcProduct > IfcElement > IfcDistributionElement > IfcDistributionFlowElement >
+IfcFlowTerminalType, IfcDistributionFlowElementType, Entity > IfcRoot > IfcObjectDefinition > IfcTypeObject > IfcTypeProduct > IfcElementType > IfcDistributionElementType > IfcDistributionFlowElementType >
+IfcFlowTreatmentDevice, IfcDistributionFlowElement, Entity > IfcRoot > IfcObjectDefinition > IfcObject > IfcProduct > IfcElement > IfcDistributionElement > IfcDistributionFlowElement >
+IfcFlowTreatmentDeviceType, IfcDistributionFlowElementType, Entity > IfcRoot > IfcObjectDefinition > IfcTypeObject > IfcTypeProduct > IfcElementType > IfcDistributionElementType > IfcDistributionFlowElementType >
+IfcFooting, IfcBuildingElement, Entity > IfcRoot > IfcObjectDefinition > IfcObject > IfcProduct > IfcElement > IfcBuildingElement >
+IfcFootingType, IfcBuildingElementType, Entity > IfcRoot > IfcObjectDefinition > IfcTypeObject > IfcTypeProduct > IfcElementType > IfcBuildingElementType >        
+IfcFurnishingElement, IfcElement, Entity > IfcRoot > IfcObjectDefinition > IfcObject > IfcProduct > IfcElement >
+IfcFurnishingElementType, IfcElementType, Entity > IfcRoot > IfcObjectDefinition > IfcTypeObject > IfcTypeProduct > IfcElementType >
+IfcFurniture, IfcFurnishingElement, Entity > IfcRoot > IfcObjectDefinition > IfcObject > IfcProduct > IfcElement > IfcFurnishingElement >
+IfcFurnitureType, IfcFurnishingElementType, Entity > IfcRoot > IfcObjectDefinition > IfcTypeObject > IfcTypeProduct > IfcElementType > IfcFurnishingElementType >  
+IfcGeographicElement, IfcElement, Entity > IfcRoot > IfcObjectDefinition > IfcObject > IfcProduct > IfcElement >
+IfcGeographicElementType, IfcElementType, Entity > IfcRoot > IfcObjectDefinition > IfcTypeObject > IfcTypeProduct > IfcElementType >
+IfcHeatExchanger, IfcEnergyConversionDevice, Entity > IfcRoot > IfcObjectDefinition > IfcObject > IfcProduct > IfcElement > IfcDistributionElement > IfcDistributionFlowElement > IfcEnergyConversionDevice >
+IfcHeatExchangerType, IfcEnergyConversionDeviceType, Entity > IfcRoot > IfcObjectDefinition > IfcTypeObject > IfcTypeProduct > IfcElementType > IfcDistributionElementType > IfcDistributionFlowElementType > IfcEnergyConversionDeviceType >
+IfcHumidifier, IfcEnergyConversionDevice, Entity > IfcRoot > IfcObjectDefinition > IfcObject > IfcProduct > IfcElement > IfcDistributionElement > IfcDistributionFlowElement > IfcEnergyConversionDevice >
+IfcHumidifierType, IfcEnergyConversionDeviceType, Entity > IfcRoot > IfcObjectDefinition > IfcTypeObject > IfcTypeProduct > IfcElementType > IfcDistributionElementType > IfcDistributionFlowElementType > IfcEnergyConversionDeviceType >
+IfcInterceptor, IfcFlowTreatmentDevice, Entity > IfcRoot > IfcObjectDefinition > IfcObject > IfcProduct > IfcElement > IfcDistributionElement > IfcDistributionFlowElement > IfcFlowTreatmentDevice >
+IfcInterceptorType, IfcFlowTreatmentDeviceType, Entity > IfcRoot > IfcObjectDefinition > IfcTypeObject > IfcTypeProduct > IfcElementType > IfcDistributionElementType > IfcDistributionFlowElementType > IfcFlowTreatmentDeviceType >
+IfcJunctionBox, IfcFlowFitting, Entity > IfcRoot > IfcObjectDefinition > IfcObject > IfcProduct > IfcElement > IfcDistributionElement > IfcDistributionFlowElement > IfcFlowFitting >
+IfcJunctionBoxType, IfcFlowFittingType, Entity > IfcRoot > IfcObjectDefinition > IfcTypeObject > IfcTypeProduct > IfcElementType > IfcDistributionElementType > IfcDistributionFlowElementType > IfcFlowFittingType >
+IfcLamp, IfcFlowTerminal, Entity > IfcRoot > IfcObjectDefinition > IfcObject > IfcProduct > IfcElement > IfcDistributionElement > IfcDistributionFlowElement > IfcFlowTerminal >
+IfcLampType, IfcFlowTerminalType, Entity > IfcRoot > IfcObjectDefinition > IfcTypeObject > IfcTypeProduct > IfcElementType > IfcDistributionElementType > IfcDistributionFlowElementType > IfcFlowTerminalType >
+IfcLightFixture, IfcFlowTerminal, Entity > IfcRoot > IfcObjectDefinition > IfcObject > IfcProduct > IfcElement > IfcDistributionElement > IfcDistributionFlowElement > IfcFlowTerminal >
+IfcLightFixtureType, IfcFlowTerminalType, Entity > IfcRoot > IfcObjectDefinition > IfcTypeObject > IfcTypeProduct > IfcElementType > IfcDistributionElementType > IfcDistributionFlowElementType > IfcFlowTerminalType >
+IfcMechanicalFastener, IfcElementComponent, Entity > IfcRoot > IfcObjectDefinition > IfcObject > IfcProduct > IfcElement > IfcElementComponent > 
+IfcMechanicalFastenerType, IfcElementComponentType, Entity > IfcRoot > IfcObjectDefinition > IfcTypeObject > IfcTypeProduct > IfcElementType > IfcElementComponentType >
+IfcMedicalDevice, IfcFlowTerminal, Entity > IfcRoot > IfcObjectDefinition > IfcObject > IfcProduct > IfcElement > IfcDistributionElement > IfcDistributionFlowElement > IfcFlowTerminal >
+IfcMedicalDeviceType, IfcFlowTerminalType, Entity > IfcRoot > IfcObjectDefinition > IfcTypeObject > IfcTypeProduct > IfcElementType > IfcDistributionElementType > 
+IfcDistributionFlowElementType > IfcFlowTerminalType >
+IfcMember, IfcBuildingElement, Entity > IfcRoot > IfcObjectDefinition > IfcObject > IfcProduct > IfcElement > IfcBuildingElement >
+IfcMemberStandardCase, IfcMember, Entity > IfcRoot > IfcObjectDefinition > IfcObject > IfcProduct > IfcElement > IfcBuildingElement > IfcMember >
+IfcMemberType, IfcBuildingElementType, Entity > IfcRoot > IfcObjectDefinition > IfcTypeObject > IfcTypeProduct > IfcElementType > IfcBuildingElementType >
+IfcMotorConnection, IfcEnergyConversionDevice, Entity > IfcRoot > IfcObjectDefinition > IfcObject > IfcProduct > IfcElement > IfcDistributionElement > IfcDistributionFlowElement > IfcEnergyConversionDevice >
+IfcMotorConnectionType, IfcEnergyConversionDeviceType, Entity > IfcRoot > IfcObjectDefinition > IfcTypeObject > IfcTypeProduct > IfcElementType > IfcDistributionElementType > IfcDistributionFlowElementType > IfcEnergyConversionDeviceType >
+IfcOpeningElement, IfcFeatureElementSubtraction, Entity > IfcRoot > IfcObjectDefinition > IfcObject > IfcProduct > IfcElement > IfcFeatureElement > IfcFeatureElementSubtraction >
+IfcOpeningStandardCase, IfcOpeningElement, Entity > IfcRoot > IfcObjectDefinition > IfcObject > IfcProduct > IfcElement > IfcFeatureElement > IfcFeatureElementSubtraction > IfcOpeningElement >
+IfcOutlet, IfcFlowTerminal, Entity > IfcRoot > IfcObjectDefinition > IfcObject > IfcProduct > IfcElement > IfcDistributionElement > IfcDistributionFlowElement > IfcFlowTerminal >
+IfcOutletType, IfcFlowTerminalType, Entity > IfcRoot > IfcObjectDefinition > IfcTypeObject > IfcTypeProduct > IfcElementType > IfcDistributionElementType > IfcDistributionFlowElementType > IfcFlowTerminalType >
+IfcPile, IfcDeepFoundation, Entity > IfcRoot > IfcObjectDefinition > IfcObject > IfcProduct > IfcElement > IfcBuildingElement > IfcDeepFoundation >
+IfcPileType, IfcDeepFoundationType, Entity > IfcRoot > IfcObjectDefinition > IfcTypeObject > IfcTypeProduct > IfcElementType > IfcBuildingElementType > IfcDeepFoundationType >
+IfcPipeFitting, IfcFlowFitting, Entity > IfcRoot > IfcObjectDefinition > IfcObject > IfcProduct > IfcElement > IfcDistributionElement > IfcDistributionFlowElement > IfcFlowFitting >
+IfcPipeFittingType, IfcFlowFittingType, Entity > IfcRoot > IfcObjectDefinition > IfcTypeObject > IfcTypeProduct > IfcElementType > IfcDistributionElementType > IfcDistributionFlowElementType > IfcFlowFittingType >
+IfcPipeSegment, IfcFlowSegment, Entity > IfcRoot > IfcObjectDefinition > IfcObject > IfcProduct > IfcElement > IfcDistributionElement > IfcDistributionFlowElement > IfcFlowSegment >
+IfcPipeSegmentType, IfcFlowSegmentType, Entity > IfcRoot > IfcObjectDefinition > IfcTypeObject > IfcTypeProduct > IfcElementType > IfcDistributionElementType > IfcDistributionFlowElementType > IfcFlowSegmentType >
+IfcPlane, IfcElementarySurface, Entity > IfcRepresentationItem > IfcGeometricRepresentationItem > IfcSurface > IfcElementarySurface >
+IfcPlate, IfcBuildingElement, Entity > IfcRoot > IfcObjectDefinition > IfcObject > IfcProduct > IfcElement > IfcBuildingElement >
+IfcPlateStandardCase, IfcPlate, Entity > IfcRoot > IfcObjectDefinition > IfcObject > IfcProduct > IfcElement > IfcBuildingElement > IfcPlate >
+IfcPlateType, IfcBuildingElementType, Entity > IfcRoot > IfcObjectDefinition > IfcTypeObject > IfcTypeProduct > IfcElementType > IfcBuildingElementType >
+IfcProjectionElement, IfcFeatureElementAddition, Entity > IfcRoot > IfcObjectDefinition > IfcObject > IfcProduct > IfcElement > IfcFeatureElement > IfcFeatureElementAddition >
+IfcProtectiveDevice, IfcFlowController, Entity > IfcRoot > IfcObjectDefinition > IfcObject > IfcProduct > IfcElement > IfcDistributionElement > IfcDistributionFlowElement > IfcFlowController >
+IfcProtectiveDeviceTrippingUnit, IfcDistributionControlElement, Entity > IfcRoot > IfcObjectDefinition > IfcObject > IfcProduct > IfcElement > IfcDistributionElement > IfcDistributionControlElement >
+IfcProtectiveDeviceTrippingUnitType, IfcDistributionControlElementType, Entity > IfcRoot > IfcObjectDefinition > IfcTypeObject > IfcTypeProduct > IfcElementType > 
+IfcDistributionElementType > IfcDistributionControlElementType >
+IfcProtectiveDeviceType, IfcFlowControllerType, Entity > IfcRoot > IfcObjectDefinition > IfcTypeObject > IfcTypeProduct > IfcElementType > IfcDistributionElementType > IfcDistributionFlowElementType > IfcFlowControllerType >
+IfcPump, IfcFlowMovingDevice, Entity > IfcRoot > IfcObjectDefinition > IfcObject > IfcProduct > IfcElement > IfcDistributionElement > IfcDistributionFlowElement > 
+IfcFlowMovingDevice >
+IfcPumpType, IfcFlowMovingDeviceType, Entity > IfcRoot > IfcObjectDefinition > IfcTypeObject > IfcTypeProduct > IfcElementType > IfcDistributionElementType > IfcDistributionFlowElementType > IfcFlowMovingDeviceType >
+IfcRailing, IfcBuildingElement, Entity > IfcRoot > IfcObjectDefinition > IfcObject > IfcProduct > IfcElement > IfcBuildingElement >
+IfcRailingType, IfcBuildingElementType, Entity > IfcRoot > IfcObjectDefinition > IfcTypeObject > IfcTypeProduct > IfcElementType > IfcBuildingElementType >        
+IfcRamp, IfcBuildingElement, Entity > IfcRoot > IfcObjectDefinition > IfcObject > IfcProduct > IfcElement > IfcBuildingElement >
+IfcRampFlight, IfcBuildingElement, Entity > IfcRoot > IfcObjectDefinition > IfcObject > IfcProduct > IfcElement > IfcBuildingElement >
+IfcRampFlightType, IfcBuildingElementType, Entity > IfcRoot > IfcObjectDefinition > IfcTypeObject > IfcTypeProduct > IfcElementType > IfcBuildingElementType >     
+IfcRampType, IfcBuildingElementType, Entity > IfcRoot > IfcObjectDefinition > IfcTypeObject > IfcTypeProduct > IfcElementType > IfcBuildingElementType >
+IfcReinforcingBar, IfcReinforcingElement, Entity > IfcRoot > IfcObjectDefinition > IfcObject > IfcProduct > IfcElement > IfcElementComponent > IfcReinforcingElement >
+IfcReinforcingBarType, IfcReinforcingElementType, Entity > IfcRoot > IfcObjectDefinition > IfcTypeObject > IfcTypeProduct > IfcElementType > IfcElementComponentType > IfcReinforcingElementType >
+IfcReinforcingElement, IfcElementComponent, Entity > IfcRoot > IfcObjectDefinition > IfcObject > IfcProduct > IfcElement > IfcElementComponent >
+IfcReinforcingElementType, IfcElementComponentType, Entity > IfcRoot > IfcObjectDefinition > IfcTypeObject > IfcTypeProduct > IfcElementType > IfcElementComponentType >
+IfcReinforcingMesh, IfcReinforcingElement, Entity > IfcRoot > IfcObjectDefinition > IfcObject > IfcProduct > IfcElement > IfcElementComponent > IfcReinforcingElement >
+IfcReinforcingMeshType, IfcReinforcingElementType, Entity > IfcRoot > IfcObjectDefinition > IfcTypeObject > IfcTypeProduct > IfcElementType > IfcElementComponentType > IfcReinforcingElementType >
+IfcRoof, IfcBuildingElement, Entity > IfcRoot > IfcObjectDefinition > IfcObject > IfcProduct > IfcElement > IfcBuildingElement >
+IfcRoofType, IfcBuildingElementType, Entity > IfcRoot > IfcObjectDefinition > IfcTypeObject > IfcTypeProduct > IfcElementType > IfcBuildingElementType >
+IfcSanitaryTerminal, IfcFlowTerminal, Entity > IfcRoot > IfcObjectDefinition > IfcObject > IfcProduct > IfcElement > IfcDistributionElement > IfcDistributionFlowElement > IfcFlowTerminal >
+IfcSanitaryTerminalType, IfcFlowTerminalType, Entity > IfcRoot > IfcObjectDefinition > IfcTypeObject > IfcTypeProduct > IfcElementType > IfcDistributionElementType > IfcDistributionFlowElementType > IfcFlowTerminalType >
+IfcSensor, IfcDistributionControlElement, Entity > IfcRoot > IfcObjectDefinition > IfcObject > IfcProduct > IfcElement > IfcDistributionElement > IfcDistributionControlElement >
+IfcSensorType, IfcDistributionControlElementType, Entity > IfcRoot > IfcObjectDefinition > IfcTypeObject > IfcTypeProduct > IfcElementType > IfcDistributionElementType > IfcDistributionControlElementType >
+IfcShadingDevice, IfcBuildingElement, Entity > IfcRoot > IfcObjectDefinition > IfcObject > IfcProduct > IfcElement > IfcBuildingElement >
+IfcShadingDeviceType, IfcBuildingElementType, Entity > IfcRoot > IfcObjectDefinition > IfcTypeObject > IfcTypeProduct > IfcElementType > IfcBuildingElementType >  
+IfcSlab, IfcBuildingElement, Entity > IfcRoot > IfcObjectDefinition > IfcObject > IfcProduct > IfcElement > IfcBuildingElement >
+IfcSlabElementedCase, IfcSlab, Entity > IfcRoot > IfcObjectDefinition > IfcObject > IfcProduct > IfcElement > IfcBuildingElement > IfcSlab >
+IfcSlabStandardCase, IfcSlab, Entity > IfcRoot > IfcObjectDefinition > IfcObject > IfcProduct > IfcElement > IfcBuildingElement > IfcSlab >
+IfcSlabType, IfcBuildingElementType, Entity > IfcRoot > IfcObjectDefinition > IfcTypeObject > IfcTypeProduct > IfcElementType > IfcBuildingElementType >
+IfcSolarDevice, IfcEnergyConversionDevice, Entity > IfcRoot > IfcObjectDefinition > IfcObject > IfcProduct > IfcElement > IfcDistributionElement > IfcDistributionFlowElement > IfcEnergyConversionDevice >
+IfcSolarDeviceType, IfcEnergyConversionDeviceType, Entity > IfcRoot > IfcObjectDefinition > IfcTypeObject > IfcTypeProduct > IfcElementType > IfcDistributionElementType > IfcDistributionFlowElementType > IfcEnergyConversionDeviceType >
+IfcSpaceHeater, IfcFlowTerminal, Entity > IfcRoot > IfcObjectDefinition > IfcObject > IfcProduct > IfcElement > IfcDistributionElement > IfcDistributionFlowElement > IfcFlowTerminal >
+IfcSpaceHeaterType, IfcFlowTerminalType, Entity > IfcRoot > IfcObjectDefinition > IfcTypeObject > IfcTypeProduct > IfcElementType > IfcDistributionElementType > IfcDistributionFlowElementType > IfcFlowTerminalType >
+IfcSphericalSurface, IfcElementarySurface, Entity > IfcRepresentationItem > IfcGeometricRepresentationItem > IfcSurface > IfcElementarySurface >
+IfcStackTerminal, IfcFlowTerminal, Entity > IfcRoot > IfcObjectDefinition > IfcObject > IfcProduct > IfcElement > IfcDistributionElement > IfcDistributionFlowElement > IfcFlowTerminal >
+IfcStackTerminalType, IfcFlowTerminalType, Entity > IfcRoot > IfcObjectDefinition > IfcTypeObject > IfcTypeProduct > IfcElementType > IfcDistributionElementType > 
+IfcDistributionFlowElementType > IfcFlowTerminalType >
+IfcStair, IfcBuildingElement, Entity > IfcRoot > IfcObjectDefinition > IfcObject > IfcProduct > IfcElement > IfcBuildingElement >
+IfcStairFlight, IfcBuildingElement, Entity > IfcRoot > IfcObjectDefinition > IfcObject > IfcProduct > IfcElement > IfcBuildingElement >
+IfcStairFlightType, IfcBuildingElementType, Entity > IfcRoot > IfcObjectDefinition > IfcTypeObject > IfcTypeProduct > IfcElementType > IfcBuildingElementType >    
+IfcStairType, IfcBuildingElementType, Entity > IfcRoot > IfcObjectDefinition > IfcTypeObject > IfcTypeProduct > IfcElementType > IfcBuildingElementType >
+IfcSurfaceFeature, IfcFeatureElement, Entity > IfcRoot > IfcObjectDefinition > IfcObject > IfcProduct > IfcElement > IfcFeatureElement >
+IfcSwitchingDevice, IfcFlowController, Entity > IfcRoot > IfcObjectDefinition > IfcObject > IfcProduct > IfcElement > IfcDistributionElement > IfcDistributionFlowElement > IfcFlowController >
+IfcSwitchingDeviceType, IfcFlowControllerType, Entity > IfcRoot > IfcObjectDefinition > IfcTypeObject > IfcTypeProduct > IfcElementType > IfcDistributionElementType > IfcDistributionFlowElementType > IfcFlowControllerType >
+IfcSystemFurnitureElement, IfcFurnishingElement, Entity > IfcRoot > IfcObjectDefinition > IfcObject > IfcProduct > IfcElement > IfcFurnishingElement >
+IfcSystemFurnitureElementType, IfcFurnishingElementType, Entity > IfcRoot > IfcObjectDefinition > IfcTypeObject > IfcTypeProduct > IfcElementType > IfcFurnishingElementType >
+IfcTank, IfcFlowStorageDevice, Entity > IfcRoot > IfcObjectDefinition > IfcObject > IfcProduct > IfcElement > IfcDistributionElement > IfcDistributionFlowElement > IfcFlowStorageDevice >
+IfcTankType, IfcFlowStorageDeviceType, Entity > IfcRoot > IfcObjectDefinition > IfcTypeObject > IfcTypeProduct > IfcElementType > IfcDistributionElementType > IfcDistributionFlowElementType > IfcFlowStorageDeviceType >
+IfcTendon, IfcReinforcingElement, Entity > IfcRoot > IfcObjectDefinition > IfcObject > IfcProduct > IfcElement > IfcElementComponent > IfcReinforcingElement >     
+IfcTendonAnchor, IfcReinforcingElement, Entity > IfcRoot > IfcObjectDefinition > IfcObject > IfcProduct > IfcElement > IfcElementComponent > IfcReinforcingElement >
+IfcTendonAnchorType, IfcReinforcingElementType, Entity > IfcRoot > IfcObjectDefinition > IfcTypeObject > IfcTypeProduct > IfcElementType > IfcElementComponentType > IfcReinforcingElementType >
+IfcTendonConduit, IfcReinforcingElement, Entity > IfcRoot > IfcObjectDefinition > IfcObject > IfcProduct > IfcElement > IfcElementComponent > IfcReinforcingElement >
+IfcTendonConduitType, IfcReinforcingElementType, Entity > IfcRoot > IfcObjectDefinition > IfcTypeObject > IfcTypeProduct > IfcElementType > IfcElementComponentType > IfcReinforcingElementType >
+IfcTendonType, IfcReinforcingElementType, Entity > IfcRoot > IfcObjectDefinition > IfcTypeObject > IfcTypeProduct > IfcElementType > IfcElementComponentType > IfcReinforcingElementType >
+IfcToroidalSurface, IfcElementarySurface, Entity > IfcRepresentationItem > IfcGeometricRepresentationItem > IfcSurface > IfcElementarySurface >
+IfcTransformer, IfcEnergyConversionDevice, Entity > IfcRoot > IfcObjectDefinition > IfcObject > IfcProduct > IfcElement > IfcDistributionElement > IfcDistributionFlowElement > IfcEnergyConversionDevice >
+IfcTransformerType, IfcEnergyConversionDeviceType, Entity > IfcRoot > IfcObjectDefinition > IfcTypeObject > IfcTypeProduct > IfcElementType > IfcDistributionElementType > IfcDistributionFlowElementType > IfcEnergyConversionDeviceType >
+IfcTransportElement, IfcElement, Entity > IfcRoot > IfcObjectDefinition > IfcObject > IfcProduct > IfcElement >
+IfcTransportElementType, IfcElementType, Entity > IfcRoot > IfcObjectDefinition > IfcTypeObject > IfcTypeProduct > IfcElementType >
+IfcTubeBundle, IfcEnergyConversionDevice, Entity > IfcRoot > IfcObjectDefinition > IfcObject > IfcProduct > IfcElement > IfcDistributionElement > IfcDistributionFlowElement > IfcEnergyConversionDevice >
+IfcTubeBundleType, IfcEnergyConversionDeviceType, Entity > IfcRoot > IfcObjectDefinition > IfcTypeObject > IfcTypeProduct > IfcElementType > IfcDistributionElementType > IfcDistributionFlowElementType > IfcEnergyConversionDeviceType >
+IfcUnitaryControlElement, IfcDistributionControlElement, Entity > IfcRoot > IfcObjectDefinition > IfcObject > IfcProduct > IfcElement > IfcDistributionElement > IfcDistributionControlElement >
+IfcUnitaryControlElementType, IfcDistributionControlElementType, Entity > IfcRoot > IfcObjectDefinition > IfcTypeObject > IfcTypeProduct > IfcElementType > IfcDistributionElementType > IfcDistributionControlElementType >
+IfcUnitaryEquipment, IfcEnergyConversionDevice, Entity > IfcRoot > IfcObjectDefinition > IfcObject > IfcProduct > IfcElement > IfcDistributionElement > IfcDistributionFlowElement > IfcEnergyConversionDevice >
+IfcUnitaryEquipmentType, IfcEnergyConversionDeviceType, Entity > IfcRoot > IfcObjectDefinition > IfcTypeObject > IfcTypeProduct > IfcElementType > IfcDistributionElementType > IfcDistributionFlowElementType > IfcEnergyConversionDeviceType >
+IfcValve, IfcFlowController, Entity > IfcRoot > IfcObjectDefinition > IfcObject > IfcProduct > IfcElement > IfcDistributionElement > IfcDistributionFlowElement > IfcFlowController >
+IfcValveType, IfcFlowControllerType, Entity > IfcRoot > IfcObjectDefinition > IfcTypeObject > IfcTypeProduct > IfcElementType > IfcDistributionElementType > IfcDistributionFlowElementType > IfcFlowControllerType >
+IfcVibrationDamper, IfcElementComponent, Entity > IfcRoot > IfcObjectDefinition > IfcObject > IfcProduct > IfcElement > IfcElementComponent >
+IfcVibrationDamperType, IfcElementComponentType, Entity > IfcRoot > IfcObjectDefinition > IfcTypeObject > IfcTypeProduct > IfcElementType > IfcElementComponentType >
+IfcVibrationIsolator, IfcElementComponent, Entity > IfcRoot > IfcObjectDefinition > IfcObject > IfcProduct > IfcElement > IfcElementComponent >
+IfcVibrationIsolatorType, IfcElementComponentType, Entity > IfcRoot > IfcObjectDefinition > IfcTypeObject > IfcTypeProduct > IfcElementType > IfcElementComponentType >
+IfcVirtualElement, IfcElement, Entity > IfcRoot > IfcObjectDefinition > IfcObject > IfcProduct > IfcElement >
+IfcVoidingFeature, IfcFeatureElementSubtraction, Entity > IfcRoot > IfcObjectDefinition > IfcObject > IfcProduct > IfcElement > IfcFeatureElement > IfcFeatureElementSubtraction >
+IfcWall, IfcBuildingElement, Entity > IfcRoot > IfcObjectDefinition > IfcObject > IfcProduct > IfcElement > IfcBuildingElement >
+IfcWallElementedCase, IfcWall, Entity > IfcRoot > IfcObjectDefinition > IfcObject > IfcProduct > IfcElement > IfcBuildingElement > IfcWall >
+IfcWallStandardCase, IfcWall, Entity > IfcRoot > IfcObjectDefinition > IfcObject > IfcProduct > IfcElement > IfcBuildingElement > IfcWall >
+IfcWallType, IfcBuildingElementType, Entity > IfcRoot > IfcObjectDefinition > IfcTypeObject > IfcTypeProduct > IfcElementType > IfcBuildingElementType >
+IfcWasteTerminal, IfcFlowTerminal, Entity > IfcRoot > IfcObjectDefinition > IfcObject > IfcProduct > IfcElement > IfcDistributionElement > IfcDistributionFlowElement > IfcFlowTerminal >
+IfcWasteTerminalType, IfcFlowTerminalType, Entity > IfcRoot > IfcObjectDefinition > IfcTypeObject > IfcTypeProduct > IfcElementType > IfcDistributionElementType > 
+IfcDistributionFlowElementType > IfcFlowTerminalType >
+IfcWindow, IfcBuildingElement, Entity > IfcRoot > IfcObjectDefinition > IfcObject > IfcProduct > IfcElement > IfcBuildingElement >
+IfcWindowStandardCase, IfcWindow, Entity > IfcRoot > IfcObjectDefinition > IfcObject > IfcProduct > IfcElement > IfcBuildingElement > IfcWindow >
+IfcWindowType, IfcBuildingElementType, Entity > IfcRoot > IfcObjectDefinition > IfcTypeObject > IfcTypeProduct > IfcElementType > IfcBuildingElementType >

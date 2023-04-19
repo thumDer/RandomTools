@@ -1,5 +1,8 @@
+"""Script to export important data from xml schema
+"""
+import os
 import xml.etree.ElementTree as ET
-tree = ET.parse('IFC4x2.xsd')
+tree = ET.parse(os.path.join(os.path.dirname(__file__), 'IFC4x2.xsd'))
 root = tree.getroot()
 
 d = {}
@@ -12,7 +15,7 @@ for child in root.findall("{http://www.w3.org/2001/XMLSchema}element"):
     d[name] = {"parent": parent.replace("ifc:", "")}
 
 
-for k in d:
+for k, v in d.items():
     breadcrumb = ""
     current = k
     while True:
